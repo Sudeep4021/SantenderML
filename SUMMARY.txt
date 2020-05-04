@@ -1,0 +1,17 @@
+        
+        ****************************************** SUMMARY *************************************************
+
+I work on a dataset which helps to understand customers financial status and try to improve our banking services to
+match our customers needs and there goals. 
+
+I worked on the challenge and try to solve by using modern day's machine learning algorithms, while working with the data
+I target accuracy, Precision and F1 Score to bring out the perfect answer. As It was a classification problem 
+(i.e., Yes or no), we are tyring to predict whether our Customer is satisfied or not? Will a customer but this product?
+or can a customer pay the loans?. 
+
+To handle the Challenge we try some technique like checking the Missing value and Performing feature engineering,
+and reduce the irrelevant features. And we applied different algorithmns, but random forest classifier was the 
+best fit according to cross validation technique and AUC ROC Curve.
+
+So lastly, Random Forest algorithms with additional features will improve and solve the real world problem. And
+further I can improve the model for better results. But for now it is pretty much better to counter the challenge.  
